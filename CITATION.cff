@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SHIELD-RF: Channel Robust Open Set RF Fingerprint Authentication via Impairment Guided Outlier Synthesis"
+authors:
+  - family-names: "Arul Dalton"
+    given-names: "G."
+    affiliation: "Department of Computer Science and Engineering, Saveetha Engineering College, Chennai, India"
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+    email: "aruldalton@saveetha.ac.in"
+repository-code: "https://github.com/GArulDalton/shield-rf"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-23"
